@@ -20,7 +20,7 @@ function App() {
   }
   return (
     <div className='app' style={appStyle}>
-      <h1 className='app__title'>Galletas de la fortuna</h1>
+      <h1 className='app__title'>Galleta de la fortuna</h1>
       <ShowButton
       setRandomPhrase = {setRandomPhrase}
       setImage = {setImage}
